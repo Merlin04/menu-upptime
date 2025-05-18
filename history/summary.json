@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/menu.enby.land.ico",
     "slug": "reed-commons-menu",
     "status": "up",
-    "uptime": "99.52%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.52%",
-    "time": 601,
-    "timeDay": 3630,
-    "timeWeek": 1980,
-    "timeMonth": 933,
-    "timeYear": 601,
+    "uptime": "99.53%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.53%",
+    "time": 599,
+    "timeDay": 3641,
+    "timeWeek": 1993,
+    "timeMonth": 930,
+    "timeYear": 599,
     "dailyMinutesDown": {
-      "2025-05-17": 4,
       "2025-02-23": 572
     }
   }
